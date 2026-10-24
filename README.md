@@ -1,4 +1,4 @@
-﻿# PixelBudget: Autoregressive Image Generation Under Latency & Memory Constraints
+# PixelBudget: Autoregressive Image Generation Under Latency & Memory Constraints
 
 > **Author & Lead Researcher**: Nguyen Huynh Dang Nhut (@nhdnhut)  
 > **Affiliation**: University of Information Technology (UIT), VNU-HCM  
