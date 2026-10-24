@@ -1,6 +1,6 @@
-# PixelBudget: Autoregressive Image Generation Under Latency & Memory Constraints
+﻿# PixelBudget: Autoregressive Image Generation Under Latency & Memory Constraints
 
-> **Author & Lead Researcher**: Nguyen Huynh Dang Nhut (@nhutnhd)  
+> **Author & Lead Researcher**: Nguyen Huynh Dang Nhut (@nhdnhut)  
 > **Affiliation**: University of Information Technology (UIT), VNU-HCM  
 > **Evolutionary Lineage**: Developed as an empirical continuation of `neural-network-from-scratch`  
 > **Execution Environments**: NVIDIA T4 GPU (Colab) & Validated CPU Reference Benchmarks  
@@ -31,3 +31,4 @@ Originating from first-principles multilayer perceptron (MLP) implementations, t
 
 - `PixelBudget_CPU_Validated.ipynb`: Self-contained interactive computational laboratory containing source code, profiling loops, and reproduction instructions (68 cells).
 - `PixelBudget_CPU_Report.html`: Rendered empirical analysis report and visualizations for offline scientific peer review.
+
